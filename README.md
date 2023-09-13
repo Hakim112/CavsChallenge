@@ -1,6 +1,6 @@
 # CAV SIL Environment
 
-Clone using this command: `git clone https://ohgit.ece.mcmaster.ca/ecocar-ev/cavs/cav-sil-environment.git --recurse-submodules`
+Clone using this command: `git clone https://github.com/SamKhzym/CavDevChallenge2023.git`
 
 This repository contains the software-in-loop (SIL) testing environment for the McMaster EcoCAR Connected and Automated Vehicles team. The intent of this project is to contain the vehicle plant model, environment, and simulated sensors that mimic the behavior of the real vehicle. It is written in a combination of Python and C++ components, with the middleware being handled in RTMaps. To run this, open `cav_sil_environment.rtd` in RTMaps, configure your appropriate Python bridge and locations to your RTMaps components, then click the "Run" button. Make sure a [CARLA](documentation/running_carla.md) server is running before beginnning the RTMaps simulation. For more information for running the SIL environment, look at [Running on Windows 11](documentation/running_on_windows.md)
 
