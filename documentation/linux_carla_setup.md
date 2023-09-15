@@ -18,7 +18,7 @@ Download both the main application and the AdditionalMaps_ folder.
 
 `conda activate carla`
 
-5. cd to examples
+5. cd to the root folder of the dev challenge repository
 
 6. Run the following command
 
