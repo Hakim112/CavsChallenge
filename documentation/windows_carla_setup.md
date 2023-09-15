@@ -18,7 +18,7 @@ Download both the main application and the AdditionalMaps_ folder.
 
 `conda activate carla`
 
-5. cd to location of the unzip folder, and then cd again to `WindowsNoEditor\PythonAPI\examples`. 
+5. cd to root location of the dev challenge repository
 
 6. Run the following command
 
